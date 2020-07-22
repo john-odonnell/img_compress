@@ -48,5 +48,5 @@ Uses a loop, getc, and Bitpack_new to retrieve and store 32 bit codewords.\
 
 **Time Record**
 
-Time spent analyzing: 6 hours
+Time spent analyzing: 6 hours\
 Time spent implementing: 25 hours  
